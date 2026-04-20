@@ -1,1 +1,0 @@
-# SQL_Project-Ola_SQL_Project
